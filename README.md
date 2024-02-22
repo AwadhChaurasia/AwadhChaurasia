@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **creating an AI-driven system that can predict glaucoma using eye scans**
 
-- 🌱 I’m currently learning **Clinical implementation of AI**
+- 🌱 I’m learning **clinical application of AI**
 
 - 📫 How to reach me **Masterawadh@gmail.com**
 
