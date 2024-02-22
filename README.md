@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋, I'm Awadh Chaurasia</h1>
 <h3 align="center">A Glaucoma researcher using AI</h3>
 
-<img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/d3/48/88/d34888df05d091d603b3a34347f8371b.gif">
+<img align="right" alt="coding" width="1000" src="https://i.pinimg.com/originals/d3/48/88/d34888df05d091d603b3a34347f8371b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?
