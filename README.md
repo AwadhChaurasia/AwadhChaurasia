@@ -1,4 +1,4 @@
-![logo](https://github.com/AwadhChaurasia/Awadh-Chaurasia/blob/main/IMG_0569.jpg)
+![logo](https://github.com/AwadhChaurasia/AwadhChaurasia/blob/main/IMG_0569.jpg)
 
 <h1 align="center">Hey 👋, I'm Awadh Chaurasia</h1>
 <h3 align="center">A Glaucoma researcher using AI</h3>
