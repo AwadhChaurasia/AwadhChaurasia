@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/awadh chaurasia" target="blank"><img src="https://img.shields.io/twitter/follow/awadh chaurasia?logo=twitter&style=for-the-badge" alt="awadh chaurasia" /></a> </p>
 
-- 🔭 I’m currently working on **Predictive model for glaucoma**
+- 🔭 I’m currently working on ** creating an AI system that predicts glaucoma using eye scans**
 
 - 🌱 I’m currently learning **Clinical implementation of AI**
 
