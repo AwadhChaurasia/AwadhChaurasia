@@ -6,9 +6,6 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d3/48/88/d34888df05d091d603b3a34347f8371b.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?
-username=awadhchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="awadhchaurasia" /> </p>
-
 <p align="left"> <a href="https://twitter.com/awadh chaurasia" target="blank"><img src="https://img.shields.io/twitter/follow/awadh chaurasia?logo=twitter&style=for-the-badge" alt="awadh chaurasia" /></a> </p>
 
 - 🔭 I’m currently working on **Predictive model for glaucoma**
